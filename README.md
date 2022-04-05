@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fotettey
-- 👀 I’m interested in cloud, music & data (CMD)!
+- 👀 Cloud, Music & Data (cmd) makes me tick!
 - 🌱 I’m currently learning AWS, Python, Linux, Networking & Security
 - 💞️ I’m looking to collaborate on cloud projects, media-tech data, and data for creator rights in Ghana 😉 (Africa 🌍)
 - 📫 How to reach me fotettey@gmail.com & @fotettey
