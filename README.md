@@ -1,7 +1,7 @@
 - Hi, I’m @fotettey
 - 🤖 Cloud, Music & Data (cmd) makes me tick!
 - Working with and learning AWS, IaC, Linux, Networking & Security
-- 💞️ I’m looking to collaborate on cloud projects, media-tech data, and data for creator rights in Ghana 😉 (Africa 🌍)
+- 💞️ I’m looking to collaborate on cloud projects, media-tech, and data projects for creator rights in Ghana 😉 (Africa 🌍)
 - 📫 Reach me at fotettey@gmail.com & @fotettey
 
 <!---
